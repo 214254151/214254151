@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there 👋, I'm Abongile Tshopi
 
-<!--
-**214254151/214254151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a passionate software developer individual who is dedicated to improving skills through hands-on learning and development work.
+I am flexible and can adapt easily when required to work on multiple projects or tasks.
+I always set high standards for myself.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently enroled on some linkedIn courses and working on a project where I am learning Javascript libraries using React. Learning 
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🤔 I'm seeking opportunities in the IT industry to gain valuable experience. Any guidance or assistance in finding job openings or networking opportunities would be greatly appreciated.
+
+- 📫 How to reach me:
+  Email: abongiletshopi@gmail.com
+  Contact No: 0813603566
+  
+- To find more about my education and work experience: 
+  https://www.linkedin.com/in/abongile-tshopi-05b594169/
+
