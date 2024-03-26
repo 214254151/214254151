@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Abongile Tshopi
 
-## I'm a passionate software developer individual who is dedicated to improving skills through hands-on learning and development work.
+## I'm a passionate software developer individual from Sout Africa who is dedicated to improving skills through hands-on learning and development work.
 I am flexible and can adapt easily when required to work on multiple projects or tasks.
 I always set high standards for myself.
 
