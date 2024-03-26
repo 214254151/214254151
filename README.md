@@ -9,9 +9,11 @@ I always set high standards for myself.
 - 🤔 I'm seeking opportunities in the IT industry to gain valuable experience. Any guidance or assistance in finding job openings or networking opportunities would be greatly appreciated.
 
 - 📫 How to reach me:
-  Email: abongiletshopi@gmail.com
-  Contact No: 0813603566
+  -  📨Email: abongiletshopi@gmail.com
+  -  📞Contact No: 0813603566
   
-- To find more about my education and work experience: 
-  https://www.linkedin.com/in/abongile-tshopi-05b594169/
+- 🔎 To find more about my education and work experience: 
+    -  https://www.linkedin.com/in/abongile-tshopi-05b594169/
+
+-  
 
