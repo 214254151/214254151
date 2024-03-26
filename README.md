@@ -4,8 +4,8 @@
 I am flexible and can adapt easily when required to work on multiple projects or tasks.
 I always set high standards for myself.
 
-- 🔭 I’m currently enroled on some linkedIn courses and working on a project where I am learning Javascript libraries using React. Learning 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently enroled on some linkedIn courses and working on a project where I am learning Javascript libraries using React. Learning 
+-  I’m currently learning ...
 
 - 🤔 I'm seeking opportunities in the IT industry to gain valuable experience. Any guidance or assistance in finding job openings or networking opportunities would be greatly appreciated.
 
