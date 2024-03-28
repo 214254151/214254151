@@ -15,7 +15,7 @@ I always set high standards for myself.
 - 🔎 To find more about my education and work experience: 
     -  https://www.linkedin.com/in/abongile-tshopi-05b594169/
  
-    -  Portfolo link: 
+    -  Portfolo link: https://66053afa83d9f9008fb3e040--silly-hummingbird-953e04.netlify.app/
 
 -  
 
