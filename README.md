@@ -16,6 +16,7 @@ I always set high standards for myself.
     -  https://www.linkedin.com/in/abongile-tshopi-05b594169/
  
     -  Portfolo link: https://66053afa83d9f9008fb3e040--silly-hummingbird-953e04.netlify.app/
+    -  website 2 prototype: https://www.figma.com/proto/vcQC9G8yAv23rWNcgnprAN/Untitled?type=design&node-id=14-3&t=gXRQTVBkD6WzKVRu-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=14%3A3
 
 -  
 
