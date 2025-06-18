@@ -4,7 +4,7 @@
 I am flexible and can adapt easily when required to work on multiple projects or tasks.
 I always set high standards for myself.
 
-- 🌱 Currently enrolled in a Microsoft Security Internship (Netcampus), studying AZ-500, AZ-104, and SC-900. Learning 
+- 🌱 Currently enrolled in a Microsoft Security course (Netcampus), studying AZ-500, AZ-104, and SC-900. Learning 
 
 - 🤔 I'm seeking opportunities in the IT industry to gain valuable experience. Any guidance or assistance in finding job openings or networking opportunities would be greatly appreciated.
 
